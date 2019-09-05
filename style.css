@@ -1,0 +1,52 @@
+header {
+  background-color: gray;
+  margin-bottom: 10px;
+  height: 100px;
+  }
+
+header img {
+  float: left;
+  color: black;
+  margin-top: 15px ;
+  margin-left: 50px;
+}
+header div {
+  border: 2px solid black;
+  display: inline;
+  color: white;
+  padding: 20px;
+ }
+
+main {
+  overflow: auto;
+}
+#Hero Image {
+ margin: 30px;
+}
+#Sub Banner {
+  float: right;
+  display: inline;
+  padding: 10px;
+}
+
+p text {
+  float: right;
+  scroll: updown;
+  
+}
+
+main Featured Section Banner {
+  float: left;
+}
+
+p Submit {
+  background-color: black;
+  font: white;
+}
+
+footer {
+  background: gray;
+  height: 80px;
+  margin-top: 10px;
+  padding: 10px;
+}
