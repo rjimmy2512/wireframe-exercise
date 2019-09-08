@@ -47,19 +47,26 @@ img.FeaturedSectionBanner {
 .description {
   float: right;
   margin-right: 120px;
-  margin-left: 30px;
+  margin-left: 40px;
   height:345px;
-  width:430px;
-  border: 1px solid white;
-  font:16px Georgia, Garamond, Serif;
+  width:420px;
+  border: 1px solid gray;
   overflow:auto;
+}
+.description span {
+  font:16px Arial, verdana, sans serif;
+  font-weight: bold;
+}
+.description p {
+  font:16px Arial, verdana, sans serif;
+  font-style: oblique;
 }
 button {
   background-color: black;
   font-size: 16px;
   color: white;
   padding: 10px 30px;
-  margin-left: 50px;
+  margin-left: 55px;
   margin-top: 10px;
   margin-bottom: 50px;
   cursor: pointer;
